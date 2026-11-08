@@ -1,0 +1,9 @@
+[project]
+name = "stormkeepers"
+version = "1.0.0"
+description = "A terminal weather RPG"
+requires-python = ">=3.10"
+dependencies = [
+    "colorama>=0.4.6",
+    "tinydb>=4.9.0",
+]
